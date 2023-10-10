@@ -4,6 +4,11 @@
 
 - NOTE: Enable Database Output (View -> Database Output) in SQLDeveloper to view the data returned by SQL queries
 
+### Database Schema
+
+![image](https://github.com/Sumanayana-Konda/Music-Database-System/assets/114708712/7bfb9471-8d49-4f6f-bdc3-fe00e341e2c0)
+
+
 ### Scripts and their Functionalities (in Order of Execution)
 
 1. SUPER ADMIN script
